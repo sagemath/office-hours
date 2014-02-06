@@ -1,5 +1,7 @@
 # SageMathCloud virtual office hours -- Feb 6, 2014
 
+Video: <https://www.youtube.com/watch?v=X2bpKQod4Qs>
+
 ## Status
 
 ### Backend -- stuff you hopefully won't notice much!
